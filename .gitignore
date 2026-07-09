@@ -8,6 +8,9 @@ dist/
 # Audio files (TTS output, regenerable)
 audio/
 
+# TTS tools (large model files)
+tools/tts/
+
 # macOS
 .DS_Store
 
