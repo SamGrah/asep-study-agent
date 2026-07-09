@@ -2,6 +2,9 @@
 tools/mochi/.mochi-key
 highlights/mochi-sync.json
 
+# INCOSE Handbook (copyrighted, users must obtain their own copy)
+INCOSE_SEHB5_Systems_Engineering_Handbook_v5.pdf
+
 # Build artifacts (regenerable)
 dist/
 
