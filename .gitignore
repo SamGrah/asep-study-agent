@@ -1,0 +1,24 @@
+# Secrets and API keys
+tools/mochi/.mochi-key
+highlights/mochi-sync.json
+
+# Build artifacts (regenerable)
+dist/
+
+# Audio files (TTS output, regenerable)
+audio/
+
+# macOS
+.DS_Store
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
